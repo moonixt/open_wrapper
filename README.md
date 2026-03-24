@@ -11,9 +11,9 @@ This repository follows the **public repo / closed-source** model:
 
 Open_Wrapper  centralizes multi-agent operations in a single interface:
 # Agent and session management.
-  <img width="300" height="923" alt="image" src="https://github.com/user-attachments/assets/33d86209-bf63-40f4-8064-35524234e8b4" />
-  <img width="300" height="923" alt="image" src="https://github.com/user-attachments/assets/f667cc1c-0dd7-429b-9422-139155e05384" />
-  <img width="300" height="923" alt="image" src="https://github.com/user-attachments/assets/c97fbbc0-2190-4b9a-b237-ca062616e9c5" />
+  <img width="280" height="923" alt="image" src="https://github.com/user-attachments/assets/33d86209-bf63-40f4-8064-35524234e8b4" />
+  <img width="280" height="923" alt="image" src="https://github.com/user-attachments/assets/f667cc1c-0dd7-429b-9422-139155e05384" />
+  <img width="280" height="923" alt="image" src="https://github.com/user-attachments/assets/c97fbbc0-2190-4b9a-b237-ca062616e9c5" />
 
 
 
