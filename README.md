@@ -16,7 +16,7 @@ Open_Wrapper  centralizes multi-agent operations in a single interface:
 
 ## What You Will Find In This Repository
 
-- Product documentation.Command Center
+- Product documentation.Open_Wrapper 
 - Public roadmap.
 - Changelog and release updates (when applicable).
 - A channel to report bugs and request improvements (Issues).
